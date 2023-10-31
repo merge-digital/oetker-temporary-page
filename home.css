@@ -29,7 +29,7 @@
 
 
   .u-footer {
-    height: 10vh;
+    height: 100%;
   }
   
   @media (max-width: 991px) {
